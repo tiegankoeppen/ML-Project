@@ -19,7 +19,6 @@ markupsafe==2.1.0; python_version >= "3.7" and python_full_version < "3.0.0" or 
 marshmallow==3.14.1; python_version >= "3.6"
 packaging==21.3; python_version >= "3.6"
 pluggy==1.0.0; python_version >= "3.6"
-psycopg2==2.9.3; python_version >= "3.6"
 py==1.11.0; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version >= "3.6"
 pycparser==2.21; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 pyparsing==3.0.7; python_version >= "3.6"
